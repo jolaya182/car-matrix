@@ -1,0 +1,19 @@
+{
+  "name": "car-matrix",
+  "version": "1.0.0",
+  "description": "gSchool JS Car enthusiasts",
+  "main": "index.js",
+  "engines": {
+    "node": "7.6.0"
+  },
+  "scripts": {
+    "start": "nf start"
+  },
+  "keywords": [],
+  "author": "Modou Sawo, Javier Olaya, Akeem Lawrence",
+  "license": "MIT",
+  "dependencies": {
+    "foobar": "1.1.0",
+    "foreman": "2.0.0"
+  }
+}
